@@ -22,8 +22,9 @@ function Registrar() {
       MostrarMensaje(`Usuario existente`, 'red');
       return;
     }
-    window.location.href = `MenuPrincipal.html`;
   }
+  window.location.href = `MenuPrincipal.html`;
+
   Limpiar();
   let nuevoUsuario = new Registro(
     usuario,
