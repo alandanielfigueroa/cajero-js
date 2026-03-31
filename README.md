@@ -1,14 +1,35 @@
-# Banco CENYCA
+# 🏦 Banco CENYCA - Sistema de Cajero Automático
 
-Proyecto de un simulador de cajero automático.
+Proyecto web que simula un sistema bancario básico con operaciones de cajero automático.
 
-## Funciones
-- Login de usuarios
-- Depósito
-- Retiro
-- Control de saldo
+---
 
-## Tecnologías
+## 🚀 Funcionalidades
+
+- 🔐 Inicio de sesión de usuarios
+- 💰 Depósito de dinero
+- 💸 Retiro de dinero
+- 📊 Control de saldo
+- 🗄️ Conexión con base de datos
+
+---
+
+## 💻 Tecnologías utilizadas
+
 - HTML
 - JavaScript
-- SQL
+- PHP
+- SQL (Base de datos)
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Este proyecto fue desarrollado con fines educativos para practicar lógica de programación, manejo de datos y simulación de sistemas reales.
+
+---
+
+## 👨‍💻 Autor
+
+Alan Daniel Figueroa Carrillo  
+GitHub: https://github.com/alandanielfigueroa
